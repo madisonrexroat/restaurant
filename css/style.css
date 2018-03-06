@@ -3,13 +3,13 @@ body{
   margin-left: 50px;
 }
 h1{
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Didot', cursive;
   font-size: 60px;
   text-align: center;
 }
 
 p{
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size: 1.5em;
 }
 
@@ -20,7 +20,7 @@ p{
   margin-bottom: 50px;
   padding: 10px;
 
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size: 1.3em;
 
   text-align: center;
