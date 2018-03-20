@@ -26,8 +26,10 @@ p{
   font-size: 1.5em;
 }
 
-img{
-  img-align: middle;
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
 }
 
 #nav{
